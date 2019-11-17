@@ -1,2 +1,0 @@
-# ChooseANumber
-Created with CodeSandbox
